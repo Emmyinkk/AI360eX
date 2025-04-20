@@ -244,8 +244,8 @@ a {
 
 .sell,
 .buy {
-    border: 1px solid green;
-    color: green;
+    border: 1px solid white;
+    color: white;
     background: transparent;
     transition: .3s ease-in-out;
 }
